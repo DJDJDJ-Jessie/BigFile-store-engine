@@ -1,5 +1,5 @@
 # BigFile-store-engine
-implement a bigfile store engine from TFS which based on Hash structure written in C++ language
+implement a bigfile-store engine from TFS which based on Hash structure written in C++ language
 system:Linux Ubuntu
 
 来自TFS的大文件（非结构化数据）的存储引擎，核心是内存映射和哈希链表。
